@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="chrome"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.476">
+  <properties />
+  
+  
+            <testcase name="validcreadlogin" time="0.295" classname="com.facebook.test.TestLoginPage" />
+                <testcase name="invalidcreadlogin" time="0.181" classname="com.facebook.test.TestLoginPage" />
+      
+</testsuite>
